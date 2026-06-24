@@ -18,7 +18,7 @@ body, html {
   filter: brightness(0.75);
 }
 .bgimg-1 {
-  background-image: url("../image/Tonystark.jpg");
+  background-image: url("../image/tonystark.jpg");
   min-height:500px;
 }
 
@@ -29,7 +29,7 @@ body, html {
 
 
 .bgimg-3 {
-  background-image: url("../image/arc_reactor.jpg");
+  background-image: url("../image/arcreactor.jpg");
   min-height:500px;
 }
 
@@ -51,7 +51,7 @@ body, html {
 }
   
 .bgimg-7 {
-  background-image: url("../image/OIP.webp");
+  background-image: url("../image/oip.webp");
   min-height:500px;
 }
 .bgimg-8 {
