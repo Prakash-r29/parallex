@@ -1,0 +1,95 @@
+body, html {
+  height: 100%;
+  margin-top:10px;
+   background: linear-gradient(
+    135deg,
+    #111111,
+    #3a3a3a,
+    #8c8c8c,
+    #222222
+);
+}
+.bgimg-1, .bgimg-2, .bgimg-3,.bgimg-4,.bgimg-5,.bgimg-6,.bgimg-7,.bgimg-8,.bgimg-9{
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(0.75);
+}
+.bgimg-1 {
+  background-image: url("../image/Tonystark.jpg");
+  min-height:500px;
+}
+
+.bgimg-2 {
+  background-image: url("../image/attack.jpg");
+  min-height:500px;
+}
+
+
+.bgimg-3 {
+  background-image: url("../image/arc_reactor.jpg");
+  min-height:500px;
+}
+
+
+.bgimg-4{
+  background-image: url("../image/arm\ suit.jpg");
+  min-height:500px;
+}
+  
+.bgimg-5 {
+  background-image: url("../image/modern\ suit.jpg");
+  min-height:500px;
+}
+
+
+.bgimg-6 {
+  background-image: url("../image/climax.jpg");
+  min-height:500px;
+}
+  
+.bgimg-7 {
+  background-image: url("../image/OIP.webp");
+  min-height:500px;
+}
+.bgimg-8 {
+  background-image: url("../image/end.jpg");
+  min-height:500px;
+}
+.bgimg-9 {
+  background-image: url("../image/signature\ pose.jpg");
+  min-height:700px;
+}
+
+
+.caption {
+ position: absolute;
+  left:10%;
+  top:50%;
+  width:75%;
+  text-align: center;
+  padding:20px;
+  background:rgba(0,0,0,0.45);
+}
+p{
+  letter-spacing:2px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: white;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    background:rgba(0,0,0,0.45);
+    color: white;
+
+    
+}
+h2{
+    text-align: center;
+    color: white;
+    
+}
